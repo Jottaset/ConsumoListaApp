@@ -1,0 +1,12 @@
+/Users/aluno/Projects/ConsumoListaApp/ConsumoListaApp/bin/Debug/netstandard2.0/ConsumoListaApp.deps.json
+/Users/aluno/Projects/ConsumoListaApp/ConsumoListaApp/bin/Debug/netstandard2.0/ConsumoListaApp.dll
+/Users/aluno/Projects/ConsumoListaApp/ConsumoListaApp/bin/Debug/netstandard2.0/ConsumoListaApp.pdb
+/Users/aluno/Projects/ConsumoListaApp/ConsumoListaApp/obj/Debug/netstandard2.0/ConsumoListaApp.csprojAssemblyReference.cache
+/Users/aluno/Projects/ConsumoListaApp/ConsumoListaApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/ConsumoListaApp/ConsumoListaApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/ConsumoListaApp/ConsumoListaApp/obj/Debug/netstandard2.0/ConsumoListaApp.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/ConsumoListaApp/ConsumoListaApp/obj/Debug/netstandard2.0/ConsumoListaApp.AssemblyInfoInputs.cache
+/Users/aluno/Projects/ConsumoListaApp/ConsumoListaApp/obj/Debug/netstandard2.0/ConsumoListaApp.AssemblyInfo.cs
+/Users/aluno/Projects/ConsumoListaApp/ConsumoListaApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Projects/ConsumoListaApp/ConsumoListaApp/obj/Debug/netstandard2.0/ConsumoListaApp.dll
+/Users/aluno/Projects/ConsumoListaApp/ConsumoListaApp/obj/Debug/netstandard2.0/ConsumoListaApp.pdb

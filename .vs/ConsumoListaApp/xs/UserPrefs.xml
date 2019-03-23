@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{5BE12DEB-5C05-459D-B0A8-B85EF4B8F8DE}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConsumoListaApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsumoListaApp/MainPage.xaml">
+    <Files>
+      <File FileName="ConsumoListaApp/MainPage.xaml.cs" Line="30" Column="53" />
+      <File FileName="ConsumoListaApp/MainPage.xaml" Line="21" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsumoListaApp" expanded="True">
+            <Node name="ConsumoListaApp" expanded="True">
+              <Node name="Model1" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ConsumoListaApp.Android PreferredExecutionTarget="Android.5711d61d" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
